@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">SvjetskiPrvaciUNogometu</string>
+    <string name="ime_dr_ave">Ime drzave</string>
+    <string name="ime_drzave">Ime drzave:</string>
+    <string name="broj_pobjeda">Broj pobjeda:</string>
+</resources>
